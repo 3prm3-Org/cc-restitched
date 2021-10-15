@@ -9,6 +9,8 @@ labels: bug
  - Search for the bug on the issue tracker. Make sure to look at closed issues too!
 -->
 
+# ATTENTION: This Repo is being moved, check the README for more information
+
 ## Useful information to include:
  - Minecraft version
  - CC: Restitched version
