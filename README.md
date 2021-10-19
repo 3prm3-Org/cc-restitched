@@ -1,5 +1,6 @@
-# ATTENTION!! 
-This repo has been moved to [cc-tweaked/cc-restitched](https://github.com/cc-tweaked/cc-restitched) where SquidDev and I have agreed to put our repos to solve some issues with the *multitude* of forks. 
+# ARCHIVAL NOTICE!! ***[cc-tweaked/cc-restitched](https://github.com/cc-tweaked/cc-restitched)***
+
+This repo has been moved where SquidDev and I have agreed to put our repos to solve some issues with the *multitude* of forks.
 
 ***Please open Bug Reports and PR's there, and fork from there***
 
